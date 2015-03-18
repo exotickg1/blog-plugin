@@ -19,6 +19,7 @@ return [
         'chart_drafts' => 'Черновики',
         'chart_total' => 'Всего',
         'new_category' => 'Новая категория',
+        'uncategorized' => 'Без категории',
     ],
     'posts' => [
         'list_title' => 'Управление записями блога',
